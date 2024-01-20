@@ -1,0 +1,86 @@
+{
+  "projects": [
+    {
+      "name": "jose manuel de Oliveira",
+      "budget": "5600",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 100,
+      "services": [
+        {
+          "name": "mais extra ainda",
+          "cost": "100",
+          "description": "foi preciso realmente",
+          "id": "c97eb1d3-e9b5-4d4d-819a-fa290bea59a3"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "corto",
+      "budget": "2000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 2000,
+      "services": [
+        {
+          "name": "extra",
+          "cost": "1000",
+          "description": "blalbla",
+          "id": "05126f50-8226-49f6-b9dc-5b80cb26a867"
+        },
+        {
+          "name": "zeze",
+          "cost": "1000",
+          "description": "66",
+          "id": "4ce78543-9564-44c3-8a77-6c93941bb654"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "Joeber André Coutinho",
+      "budget": "222",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 8
+    },
+    {
+      "name": "qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq",
+      "budget": "22",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
