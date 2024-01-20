@@ -2,9 +2,9 @@
   width: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: 4em;
+  align-items: self-end;
+
+
   background-image: url('../img/perfil.jpg');
   background-repeat: no-repeat;
   background-size : 35%; 
@@ -23,8 +23,7 @@
 }
 
 .home_container p {
-  margin-bottom: 1.5em;
-  color: #1b1515;
+  padding-left: 50%;
 }
 
 .home_container img {
