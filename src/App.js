@@ -35,11 +35,13 @@ function App() {
           <Route path="/contato" element={< Contato />} />
 
         </Routes>
+        
       </Container>
 
       <Footer />
 
     </Router>
+    
   );
 }
 
