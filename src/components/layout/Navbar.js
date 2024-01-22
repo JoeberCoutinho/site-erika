@@ -18,16 +18,16 @@ function Navbar() {
             <Link to="/">O QUE É A FONO?</Link>
           </li>
           <li className={styles.item}>
-            <Link to="/sobremim">SOBRE MIM</Link>
+            <Link to="/sobremim">TESTE DA ORELINHA</Link>
           </li>
           <li className={styles.item}>
-            <Link to="/atuacao">ATUAÇÃO</Link>
+            <Link to="/atuacao">TESTE DA LINGUINHA</Link>
           </li>
           <li className={styles.item}>
-            <Link to="/tratamento">TRATAMENTO</Link>
+            <Link to="/tratamento">CHUPETAS</Link>
           </li>
           <li className={styles.item}>
-            <Link to="/contato">CONTATO</Link>
+            <Link to="/contato">DISFLUENCIA DE FALA</Link>
           </li>
         </ul>
       </Container>

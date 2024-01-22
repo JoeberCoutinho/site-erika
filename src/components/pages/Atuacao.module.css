@@ -1,13 +1,43 @@
-.newproject_container {
-  width: 450px;
-  margin: 0 auto;
-  padding: 3em;
+.home_container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+
+  background-image: url('../img/perfil.jpg');
+  background-repeat: no-repeat;
+  background-size : 35%; 
+  background-position: left;
 }
 
-.newproject_container h1 {
-  margin-bottom: 0.5em;
+.home_container h1 {
+
+  font-size: 2em;
+  margin-bottom:1.5em;
 }
 
-.newproject_container p {
-  color: #1a1616;
+.home_container h2 {
+
+  font-size: 1.5em;
+padding: 0.2em;
+padding-left: 20%;
+
+}
+
+.home_container h1 span {
+  color: #0b0b0a;
+  padding:  0.2em;
+
+}
+
+.home_container p {
+  text-indent: 30px;
+  padding-left: 40%;
+  line-height: 2;
+}
+
+.home_container img {
+
+  margin: 2em 0;
 }
